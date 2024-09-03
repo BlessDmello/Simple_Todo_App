@@ -5,7 +5,8 @@ This repository contains a Simple Todo List Application built using the MERN sta
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/BlessDmello/Simple_Todo_App/blob/main/Todo1.png?raw=true)
+![App Screenshot](https://github.com/BlessDmello/Simple_Todo_App/blob/main/Todo2.png?raw=true)
 
 
 ## Features
