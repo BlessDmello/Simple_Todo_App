@@ -7,7 +7,7 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-mongoose.connect('mongodb+srv://admin:aE0xI5nSV85BhoU6@cluster0.ujjdm.mongodb.net/todo')
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.ujjdm.mongodb.net/todo')
 
 app.get('/get', (req,res) => {
     TodoModel.find()
